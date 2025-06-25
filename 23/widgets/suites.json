@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"2e2c7171430fa3ed67f413421cbf10ce","name":"Social Registry Sanity Test Suite","statistic":{"failed":0,"broken":1,"skipped":1,"passed":30,"unknown":0,"total":32}}]}
+{"total":1,"items":[{"uid":"2e2c7171430fa3ed67f413421cbf10ce","name":"Social Registry Sanity Test Suite","statistic":{"failed":0,"broken":10,"skipped":8,"passed":14,"unknown":0,"total":32}}]}
